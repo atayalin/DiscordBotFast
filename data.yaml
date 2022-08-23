@@ -9,3 +9,4 @@ clients:
       - channel_id: 'enter_channel_id' # second channel
         message: 'message2'
         period: 2
+        
